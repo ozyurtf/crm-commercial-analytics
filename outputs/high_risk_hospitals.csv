@@ -1,0 +1,26 @@
+rank,hospital_id,hospital_name,area,current_trend,risk_score,primary_driver,leadless_pen,area_benchmark,leadless_yoy_pp,pred_leadless_2026,vol_growth,net_growth,volume_2025
+1,2876883032,Memorial Heart Center,SA,"Volume -7%, Net sales +2%",33.4,"Leadless 10% vs area benchmark 23% (-13pp gap), down 20pp YoY",0.1,0.232,-20.2,0.218,-0.07,0.021,40
+2,8813356661,Methodist Hospital,WC,"Volume +55%, Net sales -1%",33.1,"Leadless 12% vs area benchmark 23% (-12pp gap), down 22pp YoY",0.118,0.233,-21.6,0.249,0.545,-0.007,51
+3,2797904567,Baptist Health System,WC,"Volume -4%, Net sales +1%",23.6,"Leadless 13% vs area benchmark 23% (-11pp gap), down 13pp YoY",0.128,0.233,-13.1,0.228,-0.037,0.009,78
+4,9880567976,Regional Health System,NE,"Volume -9%, Net sales +29%",21.3,"Leadless 10% vs area benchmark 23% (-13pp gap), down 8pp YoY",0.1,0.231,-8.2,0.183,-0.091,0.294,20
+5,8436720772,Mount Sinai Heart Center,NE,"Volume +38%, Net sales +7%",16.3,"Leadless 16% vs area benchmark 23% (-7pp gap), down 9pp YoY",0.159,0.231,-9.1,0.274,0.375,0.067,44
+6,8046388544,Cedars-Sinai Hospital & Clinics,NE,"Volume +3%, Net sales +1%",15.5,"Leadless 17% vs area benchmark 23% (-6pp gap), down 9pp YoY",0.167,0.231,-9.0,0.232,0.029,0.013,72
+7,7269795081,Regional Health System,NE,"Volume +38%, Net sales -6%",14.0,"Leadless 15% vs area benchmark 23% (-9pp gap), down 5pp YoY",0.145,0.231,-5.5,0.223,0.375,-0.061,55
+8,5563515687,Regional Hospital & Clinics,WC,"Volume +30%, Net sales -9%",12.3,"Leadless 21% vs area benchmark 23% (-3pp gap), down 9pp YoY",0.205,0.233,-9.5,0.33,0.3,-0.089,39
+9,8213914388,Mercy Medical Center,NE,"Volume +1%, Net sales +5%",10.7,"Leadless 18% vs area benchmark 23% (-5pp gap), down 5pp YoY",0.178,0.231,-5.4,0.238,0.013,0.049,157
+10,8917025615,Cleveland Clinic Heart Center,GL,"Volume +21%, Net sales -6%",10.7,"Leadless 14% vs area benchmark 23% (-9pp gap), down 2pp YoY",0.142,0.228,-2.0,0.194,0.207,-0.064,134
+11,5510686395,Cedars-Sinai Health System,SA,"Volume +33%, Net sales -15%",10.1,"Leadless 20% vs area benchmark 23% (-4pp gap), down 7pp YoY",0.196,0.232,-6.5,0.255,0.333,-0.146,56
+12,8485619008,Presbyterian Health System,SA,"Volume -2%, Net sales +8%",9.7,"Leadless 16% vs area benchmark 23% (-7pp gap), down 2pp YoY",0.159,0.232,-2.5,0.23,-0.018,0.083,107
+13,7915864379,Johns Hopkins Hospital & Clinics,SA,"Volume +7%, Net sales +11%",9.2,"Leadless 17% vs area benchmark 23% (-6pp gap), down 3pp YoY",0.168,0.232,-2.9,0.212,0.068,0.113,125
+14,1285374117,Northwestern Medical Center,SA,"Volume +7%, Net sales -8%",8.8,"Leadless 18% vs area benchmark 23% (-5pp gap), down 4pp YoY",0.183,0.232,-4.0,0.274,0.071,-0.077,120
+15,6065332752,Vanderbilt Hospital,NE,"Volume +33%, Net sales +44%",8.8,"Leadless 21% vs area benchmark 23% (-2pp gap), down 7pp YoY",0.214,0.231,-7.1,0.3,0.333,0.445,28
+16,9331515525,General Hospital,GL,"Volume +1%, Net sales -0%",8.8,"Leadless 17% vs area benchmark 23% (-6pp gap), down 3pp YoY",0.167,0.228,-2.6,0.248,0.012,-0.003,84
+17,1558692208,Community Health System,GL,"Volume -3%, Net sales +11%",8.7,"Leadless 18% vs area benchmark 23% (-5pp gap), down 4pp YoY",0.18,0.228,-3.9,0.243,-0.034,0.11,172
+18,6689439795,Johns Hopkins Hospital & Clinics,SG,"Volume -12%, Net sales +9%",8.1,"Leadless 22% vs area benchmark 23% (-1pp gap), down 7pp YoY",0.219,0.23,-7.0,0.318,-0.12,0.088,73
+19,2979029736,Mount Sinai Heart Center,WC,"Volume +27%, Net sales +3%",8.1,"Leadless 17% vs area benchmark 23% (-6pp gap), down 2pp YoY",0.174,0.233,-2.1,0.23,0.274,0.03,144
+20,7698604197,Mount Sinai Hospital,NE,"Volume +44%, Net sales -22%",8.0,"Leadless 21% vs area benchmark 23% (-3pp gap), down 5pp YoY",0.205,0.231,-5.4,0.259,0.444,-0.219,39
+21,7823549950,Mount Sinai Medical Center,GP,"Volume +43%, Net sales +17%",7.6,"Leadless 21% vs area benchmark 23% (-2pp gap), down 6pp YoY",0.209,0.228,-5.7,0.264,0.433,0.167,43
+22,3187951363,Northwestern Health System,GL,"Volume +7%, Net sales -21%",7.4,"Leadless 21% vs area benchmark 23% (-2pp gap), down 5pp YoY",0.207,0.228,-5.2,0.264,0.074,-0.213,29
+23,3218662540,Mercy Hospital & Clinics,NE,"Volume +0%, Net sales +11%",6.8,"Leadless 18% vs area benchmark 23% (-5pp gap), down 2pp YoY",0.184,0.231,-2.0,0.29,0.0,0.114,49
+24,8361370523,Mount Sinai Health System,GP,"Volume +26%, Net sales +15%",6.8,"Leadless 19% vs area benchmark 23% (-4pp gap), down 3pp YoY",0.186,0.228,-2.6,0.244,0.255,0.153,59
+25,6691619031,Northwestern Medical Center,GL,"Volume +40%, Net sales +3%",6.8,"Leadless 20% vs area benchmark 23% (-3pp gap), down 4pp YoY",0.2,0.228,-4.0,0.254,0.4,0.031,35
